@@ -11,7 +11,7 @@ let idxCounter = 0,
   mistakeCounter = 0;
 
 let timer,
-  maxTime = 5,
+  maxTime = 60,
   timeInterval = maxTime,
   isTyping = false;
 
